@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814311288199",
+    "project_id": "pushnotifi-96381",
+    "storage_bucket": "pushnotifi-96381.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814311288199:android:e049802ea32c1884333722",
+        "android_client_info": {
+          "package_name": "com.example.pushno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdvF0zfy58cHOEI1kq34FLI33BnMCtQu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
